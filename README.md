@@ -36,8 +36,8 @@
 </div>
 
 <div align="right"> 
-    <h3> Author: </h3> 
+   
     <h5> 
-            🖤 <a href="https://github.com/bakaybro"> by Bakay </a> 🖤
+            <a href="https://github.com/bakaybro"> by Bakay </a>
     </h5> 
 </div>
