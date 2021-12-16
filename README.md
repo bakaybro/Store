@@ -33,14 +33,7 @@
         </h6> </ul>
     </li>
     </ul>
-</div>
-
-<div align="right"> 
-   
-    <h5> 
-            <a href="https://github.com/bakaybro"> by Bakay </a>
-    </h5> 
-</div>
+    </div>
     
     <div align="center"> 
     <h3> Author: </h3> 
@@ -48,3 +41,10 @@
             🖤 <a href="https://github.com/Smile-Bonchichi"> Нурдин </a> 🖤
     </h5> 
 </div>
+</div>
+
+<div align="right"> 
+   
+    <h5> 
+            <a href="https://github.com/bakaybro"> by Bakay </a>
+    </h5> 
