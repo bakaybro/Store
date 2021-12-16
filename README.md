@@ -34,10 +34,3 @@
     </li>
     </ul>
 </div>
-
-<div align="right"> 
-   
-    <h5> 
-            <a href="https://github.com/bakaybro"> by Bakay </a>
-    </h5> 
-    </div>
