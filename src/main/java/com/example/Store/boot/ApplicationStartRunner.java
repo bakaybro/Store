@@ -25,7 +25,7 @@ public class ApplicationStartRunner implements CommandLineRunner {
         userRoleService.createUserRole(roleAdmin);
 
         UserRole roleClient = new UserRole();
-        roleAdmin.setRoleName("ROLE_CLIENT");
+        roleClient.setRoleName("ROLE_CLIENT");
         userRoleService.createUserRole(roleClient);
 
         UserModel admin = new UserModel();
