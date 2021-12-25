@@ -1,6 +1,6 @@
 package com.example.Store.boot;
 
-import com.example.Store.entity.User;
+//import com.example.Store.entity.User;
 import com.example.Store.entity.UserRole;
 import com.example.Store.model.UserModel;
 import com.example.Store.service.UserRoleService;
