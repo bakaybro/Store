@@ -34,3 +34,10 @@
     </li>
     </ul>
 </div>
+
+<div align="right"> 
+    <h3> Ссылка на Swagger: </h3> 
+    <h5> 
+             <a href="https://store-bakai.herokuapp.com/swagger-ui.html"> Swagger </a>
+    </h5> 
+</div>
